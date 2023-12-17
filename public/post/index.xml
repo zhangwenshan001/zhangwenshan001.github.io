@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts | Wenshan&#39;s Blog</title>
+    <link>https://zhangwenshan001.github.io/post/</link>
+      <atom:link href="https://zhangwenshan001.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <description>Posts</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 17 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://zhangwenshan001.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Posts</title>
+      <link>https://zhangwenshan001.github.io/post/</link>
+    </image>
+    
+    <item>
+      <title>Building my own blog my by Hugo</title>
+      <link>https://zhangwenshan001.github.io/post/get-started/</link>
+      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/post/get-started/</guid>
+      <description>&lt;p&gt;This is a demo for creating a blog on github.&lt;/p&gt;
+&lt;h2 id=&#34;static-website-generator&#34;&gt;Static Website Generator&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo&lt;/a&gt;:
+&lt;ul&gt;
+&lt;li&gt;Written in Go&lt;/li&gt;
+&lt;li&gt;Super fast&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gohugoio/hugo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; stared 70k&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://jekyllrb.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Jekyll&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Written in Ruby&lt;/li&gt;
+&lt;li&gt;Built-in support for Github pages&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/jekyll/jekyll&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; stared 47k&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://hexo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hexo&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Written in Node.js&lt;/li&gt;
+&lt;li&gt;Supporting Chinese&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hexojs/hexo&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github&lt;/a&gt; stared 37k&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This time I tried to use hugo to build a demo blog.&lt;/p&gt;
+&lt;h2 id=&#34;steps&#34;&gt;Steps&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;Create new repository named &lt;strong&gt;[username].github.io&lt;/strong&gt; in github&lt;/li&gt;
+&lt;li&gt;Quick start for &lt;a href=&#34;https://gohugo.io/getting-started/quick-start/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Add content (And writing this article now)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo new content [PATH_TO_NEW_POST].md
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;4&#34;&gt;
+&lt;li&gt;Run in local&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo server
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;or run the following commands to include draft content&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo server --buildDrafts
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;hugo server -D
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ol start=&#34;5&#34;&gt;
+&lt;li&gt;Change &lt;a href=&#34;https://themes.gohugo.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;themes&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2023-present &lt;a href=&#34;https://zhangwenshan001.github.io/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wenshan&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

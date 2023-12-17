@@ -1,11 +1,16 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Wenshan&#39;s blog</title>
+    <title>Categories | Wenshan&#39;s Blog</title>
     <link>https://zhangwenshan001.github.io/categories/</link>
-    <description>Recent content in Categories on Wenshan&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <atom:link href="https://zhangwenshan001.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+      <atom:link href="https://zhangwenshan001.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <description>Categories</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language>
+    <image>
+      <url>https://zhangwenshan001.github.io/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Categories</title>
+      <link>https://zhangwenshan001.github.io/categories/</link>
+    </image>
+    
   </channel>
 </rss>
