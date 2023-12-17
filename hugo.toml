@@ -1,0 +1,4 @@
+baseURL = 'https://zhangwenshan001.github.io/'
+languageCode = 'en-us'
+title = "Wenshan's blog"
+theme = 'ananke'
