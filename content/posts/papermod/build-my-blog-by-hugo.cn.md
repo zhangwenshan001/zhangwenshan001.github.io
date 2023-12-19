@@ -2,7 +2,6 @@
 title: 使用Hugo构建个人blog
 summary: 本文记录了该blog构建的过程，主要采用Hugo+PaperMod主题+github部署
 date: 2023-12-19
-# draft: true
 cover:
   image: images/hugo.png
   caption: "Generated using [OG Image Playground by Vercel](https://og-playground.vercel.app/)"
@@ -10,7 +9,7 @@ cover:
 authors:
   - admin
 
-tags:
+CNtags:
   - Hugo
 ---
 
@@ -128,7 +127,7 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_dir: ./public
 ```
-添加上述文件后，当代码提交到`main`分支时github actions会自动执行，并将生成的静态页面提交到`gh-pages`，这里需要注意下，默认情况下Workflow permissions可能没有修改和创建分支的权限，需要在 **project > Settings > Actions > General > Workflow permissions** 里设置一下权限。
+添加上述文件后，当代码提交到`main`分支时github actions会自动执行，并将生成的静态页面提交到`gh-pages`分支，这里需要注意下，默认情况下Workflow permissions可能没有修改和创建分支的权限，需要在 **project > Settings > Actions > General > Workflow permissions** 里设置一下权限。
 
 
 最后在Github Pages的配置中选择`gh-pages`分支进行部署，整个过程就完成了。
