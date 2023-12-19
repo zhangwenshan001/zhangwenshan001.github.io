@@ -63,8 +63,6 @@ languages:
         - name: 系列
           url: cnseries
           weight: 10
-        # - name: NullLink
-        #   url: "#"
 
     # custom params for each language should be under [langcode].parms - hugo v0.120.0
     params:
@@ -130,7 +128,7 @@ params:
       👋 Welcome to my blog!
 
 
-      This blog is powered by [PaperMod](https://github.com/adityatelange/hugo-PaperMod). If you want to build your own blog too, please refer [this]() to compare three of the static web generators.
+      This blog is powered by [PaperMod](https://github.com/adityatelange/hugo-PaperMod). If you want to build your own blog too, please refer [this](https://zhangwenshan001.github.io/posts/papermod/first-blog-compare-static-web-generators/) to compare three of the static web generators.
 
 
       I will use this blog to record:
@@ -156,7 +154,7 @@ params:
       url: "https://www.linkedin.com/in/zhangwenshan"
 
   editPost:
-    URL: "https://github.com/adityatelange/hugo-PaperMod/tree/exampleSite/content"
+    URL: "https://github.com/zhangwenshan001/zhangwenshan001.github.io/tree/main/content"
     Text: "Suggest Changes" # edit text
     appendFilePath: true # to append file path to Edit link
 
