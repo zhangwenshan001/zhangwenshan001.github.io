@@ -11,6 +11,14 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
+    <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhangwenshan001.github.io/cn/cntags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>https://zhangwenshan001.github.io/cn/cntags/hugo/</link>
+      <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/cntags/hugo/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

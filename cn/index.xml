@@ -15,9 +15,9 @@
     <atom:link href="https://zhangwenshan001.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Hugo构建个人blog</title>
-      <link>https://zhangwenshan001.github.io/cn/posts/papermod/first-blog-compare-static-web-generators/</link>
+      <link>https://zhangwenshan001.github.io/cn/posts/papermod/build-my-blog-by-hugo/</link>
       <pubDate>Tue, 19 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhangwenshan001.github.io/cn/posts/papermod/first-blog-compare-static-web-generators/</guid>
+      <guid>https://zhangwenshan001.github.io/cn/posts/papermod/build-my-blog-by-hugo/</guid>
       <description>本文记录了该blog构建的过程，主要采用Hugo+PaperMod主题+github部署</description>
     </item>
   </channel>

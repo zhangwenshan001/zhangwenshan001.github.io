@@ -15,10 +15,10 @@
     <atom:link href="https://zhangwenshan001.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building my own blog by Hugo</title>
-      <link>https://zhangwenshan001.github.io/posts/papermod/first-blog-compare-static-web-generators/</link>
+      <link>https://zhangwenshan001.github.io/posts/papermod/build-my-blog-by-hugo/</link>
       <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhangwenshan001.github.io/posts/papermod/first-blog-compare-static-web-generators/</guid>
-      <description>This is the first demo blog.</description>
+      <guid>https://zhangwenshan001.github.io/posts/papermod/build-my-blog-by-hugo/</guid>
+      <description>This article records the process of building this blog by Hugo &amp;amp; PaperMod theme &amp;amp; github actions</description>
     </item>
   </channel>
 </rss>
