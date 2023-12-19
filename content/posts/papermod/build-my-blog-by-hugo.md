@@ -92,6 +92,7 @@ hugo
 
 ## Deployment
 After confirming the contents, submit the project to your **[username].github.io** repository. The next step is to deploy it. Deploying the `main` branch directly in Github Pages would not work. We need to add a github workflow.
+
 Please refer: [actions-hugo](https://github.com/peaceiris/actions-hugo)
 
 Add the following content to `.github/workflows/gh-pages.yml`
@@ -129,7 +130,9 @@ jobs:
 ```
 After adding the file, Github Actions will automatically execute when the codes are submitted to the `main` branch, and the generated static pages will be submitted to `gh-pages` branch. It should be noted here that by default, Github Actions might have no permissions to modify and create branches. We need to update permissions in **project > Settings > Actions > General > Workflow permissions**.
 
-Finally, select `gh-pages` branch in the configuration of Github Pages and deploy it. Now the whole process is completed. Enjoy your own site!
+Finally, select `gh-pages` branch in the configuration of Github Pages and deploy it. Now the whole process is completed. 
+
+Enjoy your own site!
 
 ## License
 
