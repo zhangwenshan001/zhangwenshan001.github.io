@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wenshan&#39;s blog</title>
-    <link>https://zhangwenshan001.github.io/cn/</link>
-    <description>Recent content on Wenshan&#39;s blog</description>
+    <title>Posts on Wenshan&#39;s blog</title>
+    <link>https://zhangwenshan001.github.io/cn/posts/</link>
+    <description>Recent content in Posts on Wenshan&#39;s blog</description>
     <image>
       <title>Wenshan&#39;s blog</title>
       <url>https://zhangwenshan001.github.io/images/papermod-cover.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
     <lastBuildDate>Tue, 19 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zhangwenshan001.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhangwenshan001.github.io/cn/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>使用Hugo构建个人blog</title>
       <link>https://zhangwenshan001.github.io/cn/posts/papermod/first-blog-compare-static-web-generators/</link>
