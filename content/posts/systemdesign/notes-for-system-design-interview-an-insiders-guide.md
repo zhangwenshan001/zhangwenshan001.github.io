@@ -12,7 +12,7 @@ CNtags:
   - SystemDesign
 ---
 
-Rencently I'm reading [System Design Interview](https://www.amazon.co.jp/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) wroten by Alex Xu. This book covers some technical topics related to system design, but personally I think it is more like a book about interview skills. If you want to deep dive into details about the technologies mentioned in this book, it will be necessary to refer to other materials (the author actually recommends a lot of related materials in the book as well).
+Recently I'm reading [System Design Interview](https://www.amazon.co.jp/System-Design-Interview-insiders-Second/dp/B08CMF2CQF) written by Alex Xu. This book covers some technical topics related to system design, but personally I think it is more like a book about interview skills. If you want to deep dive into details about the technologies mentioned in this book, it will be necessary to refer to other materials (the author actually recommends a lot of related materials in the book as well).
 
 In this article, I will record some reading notes for this book.
 
