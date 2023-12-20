@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wenshan&#39;s blog</title>
-    <link>https://zhangwenshan001.github.io/</link>
-    <description>Recent content on Wenshan&#39;s blog</description>
+    <title>SystemDesign on Wenshan&#39;s blog</title>
+    <link>https://zhangwenshan001.github.io/posts/systemdesign/</link>
+    <description>Recent content in SystemDesign on Wenshan&#39;s blog</description>
     <image>
       <title>Wenshan&#39;s blog</title>
       <url>https://zhangwenshan001.github.io/images/papermod-cover.png</url>
@@ -12,20 +12,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zhangwenshan001.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhangwenshan001.github.io/posts/systemdesign/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes for System Design</title>
       <link>https://zhangwenshan001.github.io/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://zhangwenshan001.github.io/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide/</guid>
       <description>Rencently I&amp;rsquo;m reading System Design Interview wroten by Alex Xu. This book covers some technical topics related to system design, but personally I think it is more like a book about interview skills. If you want to deep dive into details about the technologies mentioned in this book, it will be necessary to refer to other materials (the author actually recommends a lot of related materials in the book as well).</description>
-    </item>
-    <item>
-      <title>Building my own blog by Hugo</title>
-      <link>https://zhangwenshan001.github.io/posts/papermod/build-my-blog-by-hugo/</link>
-      <pubDate>Sun, 17 Dec 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhangwenshan001.github.io/posts/papermod/build-my-blog-by-hugo/</guid>
-      <description>This article records the process of building this blog by Hugo &amp;amp; PaperMod theme &amp;amp; github actions</description>
     </item>
   </channel>
 </rss>
