@@ -1,5 +1,5 @@
 ---
-title: 读书笔记:《Designing Data-Intensive Applications》
+title: 《Designing Data-Intensive Applications》读书笔记
 summary: 本文为阅读《DDIA》过程中做的读书笔记
 date: 2023-12-27
 cover:
