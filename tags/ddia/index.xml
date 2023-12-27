@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Wenshan&#39;s blog</title>
-    <link>https://zhangwenshan001.github.io/posts/</link>
-    <description>Recent content in Posts on Wenshan&#39;s blog</description>
+    <title>DDIA on Wenshan&#39;s blog</title>
+    <link>https://zhangwenshan001.github.io/tags/ddia/</link>
+    <description>Recent content in DDIA on Wenshan&#39;s blog</description>
     <image>
       <title>Wenshan&#39;s blog</title>
       <url>https://zhangwenshan001.github.io/images/papermod-cover.png</url>
@@ -12,7 +12,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Wed, 27 Dec 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://zhangwenshan001.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://zhangwenshan001.github.io/tags/ddia/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Notes for Designing Data-Intensive Applications</title>
       <link>https://zhangwenshan001.github.io/posts/ddia/notes-for-design-data-intensive-applications/</link>
