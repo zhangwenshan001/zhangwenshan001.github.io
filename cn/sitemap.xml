@@ -2,6 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zhangwenshan001.github.io/cn/posts/ddia/notes-for-design-data-intensive-applications/</loc>
+    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhangwenshan001.github.io/posts/ddia/notes-for-design-data-intensive-applications/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://zhangwenshan001.github.io/cn/posts/ddia/notes-for-design-data-intensive-applications/"
+                />
+  </url><url>
     <loc>https://zhangwenshan001.github.io/cn/cntags/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,19 +45,6 @@
                 rel="alternate"
                 hreflang="cn"
                 href="https://zhangwenshan001.github.io/cn/"
-                />
-  </url><url>
-    <loc>https://zhangwenshan001.github.io/cn/posts/ddia/notes-for-design-data-intensive-applications/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhangwenshan001.github.io/posts/ddia/notes-for-design-data-intensive-applications/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://zhangwenshan001.github.io/cn/posts/ddia/notes-for-design-data-intensive-applications/"
                 />
   </url><url>
     <loc>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide/</loc>
