@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>年末总结 on Wenshan&#39;s blog</title>
+    <link>https://zhangwenshan001.github.io/cn/cntags/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/</link>
+    <description>Recent content in 年末总结 on Wenshan&#39;s blog</description>
+    <image>
+      <title>Wenshan&#39;s blog</title>
+      <url>https://zhangwenshan001.github.io/images/papermod-cover.png</url>
+      <link>https://zhangwenshan001.github.io/images/papermod-cover.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>cn</language>
+    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://zhangwenshan001.github.io/cn/cntags/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023-2024</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/annualreview/annual-review-2024/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/annualreview/annual-review-2024/</guid>
+      <description>不是总结的总结，不是展望的展望</description>
+    </item>
+  </channel>
+</rss>

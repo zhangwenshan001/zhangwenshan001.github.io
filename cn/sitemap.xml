@@ -2,6 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://zhangwenshan001.github.io/cn/posts/annualreview/annual-review-2024/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhangwenshan001.github.io/cn/cntags/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://zhangwenshan001.github.io/cn/posts/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhangwenshan001.github.io/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://zhangwenshan001.github.io/cn/posts/"
+                />
+  </url><url>
+    <loc>https://zhangwenshan001.github.io/cn/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zhangwenshan001.github.io/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="cn"
+                href="https://zhangwenshan001.github.io/cn/"
+                />
+  </url><url>
+    <loc>https://zhangwenshan001.github.io/cn/cntags/%E5%B9%B4%E6%9C%AB%E6%80%BB%E7%BB%93/</loc>
+    <lastmod>2023-12-31T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://zhangwenshan001.github.io/cn/posts/ddia/notes-for-design-data-intensive-applications/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -15,37 +50,8 @@
                 href="https://zhangwenshan001.github.io/cn/posts/ddia/notes-for-design-data-intensive-applications/"
                 />
   </url><url>
-    <loc>https://zhangwenshan001.github.io/cn/cntags/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://zhangwenshan001.github.io/cn/cntags/ddia/</loc>
     <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://zhangwenshan001.github.io/cn/posts/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhangwenshan001.github.io/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://zhangwenshan001.github.io/cn/posts/"
-                />
-  </url><url>
-    <loc>https://zhangwenshan001.github.io/cn/</loc>
-    <lastmod>2023-12-27T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zhangwenshan001.github.io/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="cn"
-                href="https://zhangwenshan001.github.io/cn/"
-                />
   </url><url>
     <loc>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide/</loc>
     <lastmod>2023-12-20T00:00:00+00:00</lastmod>
