@@ -11,8 +11,57 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>cn</language>
-    <lastBuildDate>Sun, 31 Dec 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Feb 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://zhangwenshan001.github.io/cn/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>【SD】CH15-设计Google Drive</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch15/</link>
+      <pubDate>Sun, 25 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch15/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH15的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH14-设计youtube</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch14/</link>
+      <pubDate>Sun, 18 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch14/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH14的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH13-设计搜索自动补全系统</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch13/</link>
+      <pubDate>Sun, 11 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch13/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH13的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH12-设计聊天系统</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch12/</link>
+      <pubDate>Mon, 29 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch12/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH12的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH10-设计通知系统</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch10/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch10/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH10的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH11-设计news feed</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch11/</link>
+      <pubDate>Mon, 08 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch11/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH11的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH09-设计网络抓包</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch09/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch09/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH09的读书笔记</description>
+    </item>
     <item>
       <title>2023-2024</title>
       <link>https://zhangwenshan001.github.io/cn/posts/annualreview/annual-review-2023/</link>
@@ -28,7 +77,42 @@
       <description>本文为阅读《DDIA》过程中做的读书笔记</description>
     </item>
     <item>
-      <title>《系统设计面试》读书笔记</title>
+      <title>【SD】CH08-设计URL短网址</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch08/</link>
+      <pubDate>Mon, 25 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch08/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH08的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH07-设计分布式系统中的unique id生成器</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch07/</link>
+      <pubDate>Sun, 24 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch07/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH07的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH06-设计key-value存储</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch06/</link>
+      <pubDate>Sat, 23 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch06/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH06的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH05-设计一致性哈希</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch05/</link>
+      <pubDate>Fri, 22 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch05/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH05的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH04-设计限流器</title>
+      <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch04/</link>
+      <pubDate>Thu, 21 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide-ch04/</guid>
+      <description>本文为阅读Alex Xu的《系统设计面试》CH04的读书笔记</description>
+    </item>
+    <item>
+      <title>【SD】CH01-CH03读书笔记</title>
       <link>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide/</link>
       <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
       <guid>https://zhangwenshan001.github.io/cn/posts/systemdesign/notes-for-system-design-interview-an-insiders-guide/</guid>
